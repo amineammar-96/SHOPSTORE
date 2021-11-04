@@ -1,0 +1,8 @@
+{
+  "name": "TUNISIAN APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9ab2d0a3"
+}
